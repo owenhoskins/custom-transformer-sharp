@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-transformer-sharp",
+  "name": "custom-transformer-sharp",
   "description": "Gatsby transformer plugin for images using Sharp",
   "version": "1.6.22",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
